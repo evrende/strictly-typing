@@ -1,8 +1,8 @@
 
 """typing.py
 
-This software is copyrighted under the MIT license (https://opensource.org/license/mit);
-see also the "LICENSE" file at https://github.com/evrende/strictly-typing/tree/main.
+This software is copyrighted under the MIT license (https://opensource.org/license/mit).
+See the "LICENSE" file at https://github.com/evrende/strictly-typing/tree/main.
 
 Source code written in Python 3.12.3.
 
@@ -133,7 +133,7 @@ def lines_match(from_user: str, model: str):
 
 def validate_ints(s: str, caller: str):
     """Ensure that parameter s translates to an appropriate integer."""
-    # helps determine number words, lines, words per line
+    # helps determine number of words, lines, words per line
     # prepare for missing or invalid entries:
     default = 5
     n = -1
