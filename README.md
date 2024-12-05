@@ -3,7 +3,7 @@ This repo is called "strictly-typing" to highlight the fact that the program it 
 
 Some notes about the program:
 
-Written in Python 3, the program uses one external text file ("source.txt") containing practice words and phrases. This file is included in this repository, but with a minimal set of data. Those wishing to use the program are very much encouraged to personalize the content of this external file by giving it a set of words or text strings of relevance to their own purposes.
+Written in Python 3.12, the program uses one external text file ("source.txt") containing practice words and phrases. This file is included in this repository, but with a minimal set of data. Those wishing to use the program are very much encouraged to personalize the content of this external file by giving it a set of words or text strings of relevance to their own purposes.
 
 The program is written for use in a terminal emulator. To run it, navigate to the directory where you've stored its files and enter
 
